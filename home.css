@@ -48,11 +48,10 @@ body{
     background-color: aliceblue;
     padding: 30px;
 }
-.comment{
-    height: 2000px;
+.thanhcomment{
     background-color: aliceblue;
     margin-top: 20px;
-    padding: 30px;
+    padding: 20px;
 }
 .containerfoot{
     background-color: white;
